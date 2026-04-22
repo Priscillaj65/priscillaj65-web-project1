@@ -1,0 +1,31 @@
+body {
+    background-color: #f5f0ff;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: #7c3aed;
+}
+
+p {
+    color: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    background-color: #d8b4fe;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+a:hover {
+    color: hotpink;
+}
